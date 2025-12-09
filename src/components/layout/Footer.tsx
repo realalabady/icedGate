@@ -43,7 +43,7 @@ const Footer = () => {
               <Snowflake className="w-8 h-8 text-primary" />
               <div>
                 <h3 className="text-lg font-bold">
-                  {isRTL ? "Iced Gate " : "Iced Gate"}
+                  {isRTL ? "Ice Gate " : "Ice Gate"}
                 </h3>
                 <p className="text-xs text-secondary-foreground/70">
                   {isRTL ? "للتكييف" : "HVAC Co"}

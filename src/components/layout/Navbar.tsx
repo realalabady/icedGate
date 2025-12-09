@@ -48,7 +48,7 @@ const Navbar = () => {
             </div>
             <div className="hidden sm:block">
               <h1 className="text-lg lg:text-xl font-bold text-foreground leading-tight">
-                {isRTL ? "Iced Gate" : "Iced Gate"}
+                {isRTL ? "Ice Gate" : "Ice Gate"}
               </h1>
               <p className="text-xs text-muted-foreground -mt-1">
                 {isRTL ? "للتكييف" : "HVAC Co"}
