@@ -1,0 +1,240 @@
+{
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "projects": "Projects",
+      "blog": "Blog",
+      "lease": "Lease Offer",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Ice Gate HVAC Co",
+      "subtitle": "Premium Cooling Solutions",
+      "description": "Expert air conditioning installation, maintenance, and repair services in Dhahran. Your comfort is our priority.",
+      "cta": "Get a Quote",
+      "ctaSecondary": "Our Services"
+    },
+    "home": {
+      "intro": {
+        "title": "Excellence in Climate Control",
+        "description": "With years of experience in the HVAC industry, Ice Gate delivers cutting-edge cooling solutions tailored to the unique demands of Saudi Arabia's climate. From residential homes to commercial complexes, we ensure optimal comfort year-round."
+      },
+      "whyUs": {
+        "title": "Why Choose Ice Gate?",
+        "experience": "20+ Years Experience",
+        "experienceDesc": "Decades of expertise in HVAC systems",
+        "certified": "Certified Technicians",
+        "certifiedDesc": "Factory-trained professionals",
+        "support": "24/7 Support",
+        "supportDesc": "Round-the-clock emergency services",
+        "warranty": "Quality Guarantee",
+        "warrantyDesc": "Extended warranties on all installations"
+      },
+      "featuredServices": "Featured Services",
+      "featuredProjects": "Featured Projects",
+      "viewAll": "View All"
+    },
+    "about": {
+      "title": "About Ice Gate HVAC",
+      "story": {
+        "title": "Our Story",
+        "p1": "Founded in Dhahran, Ice Gate HVAC Co has grown from a small family business to one of the most trusted names in air conditioning services across the Eastern Province.",
+        "p2": "Our commitment to excellence, customer satisfaction, and technical innovation has made us the preferred choice for residential, commercial, and industrial HVAC solutions.",
+        "p3": "We take pride in our team of certified professionals who undergo continuous training to stay ahead of industry developments and deliver the best solutions to our clients."
+      },
+      "expertise": {
+        "title": "Our Expertise",
+        "residential": "Residential HVAC",
+        "residentialDesc": "Complete home cooling solutions from split units to central systems",
+        "commercial": "Commercial Systems",
+        "commercialDesc": "Large-scale installations for offices, malls, and warehouses",
+        "industrial": "Industrial HVAC",
+        "industrialDesc": "Heavy-duty systems for factories and industrial facilities",
+        "maintenance": "Preventive Maintenance",
+        "maintenanceDesc": "Regular servicing to extend equipment life and efficiency"
+      },
+      "certifications": {
+        "title": "Certifications & Partnerships",
+        "items": [
+          "Licensed HVAC Contractor",
+          "Authorized Dealer for Major Brands",
+          "ISO 9001 Quality Management",
+          "SASO Certified Products"
+        ]
+      }
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive HVAC solutions for every need",
+      "installation": {
+        "title": "AC Installation",
+        "description": "Professional installation of all types of air conditioning systems with precision and care.",
+        "features": ["Split AC Units", "Central AC Systems", "VRF/VRV Systems", "Ductless Mini-Splits", "Free Site Assessment"]
+      },
+      "repair": {
+        "title": "AC Repair",
+        "description": "Fast and reliable repair services for all AC brands and models.",
+        "features": ["Same-Day Service", "All Brands Covered", "Genuine Parts", "Diagnostic Testing", "Emergency Repairs"]
+      },
+      "maintenance": {
+        "title": "AC Maintenance",
+        "description": "Regular maintenance programs to keep your AC running at peak efficiency.",
+        "features": ["Filter Cleaning", "Refrigerant Check", "Coil Cleaning", "Performance Optimization", "Annual Contracts"]
+      },
+      "ducting": {
+        "title": "HVAC Ducting",
+        "description": "Custom ductwork design, installation, and optimization.",
+        "features": ["Duct Design", "Installation", "Insulation", "Sealing & Repair", "Air Balancing"]
+      },
+      "central": {
+        "title": "Central Systems",
+        "description": "Complete central air conditioning solutions for large spaces.",
+        "features": ["Chiller Systems", "AHU Installation", "Building Automation", "Energy Management", "System Integration"]
+      },
+      "cta": "Request Service"
+    },
+    "projects": {
+      "title": "Our Projects",
+      "subtitle": "Showcasing our finest HVAC installations",
+      "items": [
+        {
+          "title": "Dhahran Business Tower",
+          "type": "Commercial",
+          "description": "Complete VRF system installation for 25-floor office building"
+        },
+        {
+          "title": "Al Rashid Villa Complex",
+          "type": "Residential",
+          "description": "Central AC installation for luxury villa compound with 50 units"
+        },
+        {
+          "title": "Eastern Industrial Zone",
+          "type": "Industrial",
+          "description": "Heavy-duty cooling system for manufacturing facility"
+        },
+        {
+          "title": "Marina Mall Extension",
+          "type": "Commercial",
+          "description": "Ducted system upgrade and expansion for retail space"
+        },
+        {
+          "title": "King Fahd Hospital Wing",
+          "type": "Healthcare",
+          "description": "Precision climate control for medical facilities"
+        },
+        {
+          "title": "Pearl Residence Tower",
+          "type": "Residential",
+          "description": "Smart HVAC integration for modern apartment complex"
+        }
+      ]
+    },
+    "blog": {
+      "title": "HVAC Insights",
+      "subtitle": "Tips, guides, and industry knowledge",
+      "readMore": "Read More",
+      "posts": [
+        {
+          "id": "1",
+          "title": "How AC Maintenance Saves You Money",
+          "summary": "Regular maintenance can reduce your energy bills by up to 30% and prevent costly repairs.",
+          "content": "Regular AC maintenance is not just about keeping your system running—it's about optimizing performance and extending equipment life. A well-maintained AC unit operates more efficiently, consuming less energy and reducing your monthly bills. Key maintenance tasks include cleaning or replacing filters monthly, checking refrigerant levels, cleaning condenser coils, and ensuring proper airflow. Neglecting these tasks can lead to reduced efficiency, higher energy consumption, and eventually costly breakdowns. We recommend scheduling professional maintenance at least twice a year, ideally before summer and winter seasons.",
+          "date": "2024-01-15"
+        },
+        {
+          "id": "2",
+          "title": "When to Replace Your AC Unit",
+          "summary": "Learn the signs that indicate it's time for a new air conditioning system.",
+          "content": "Your AC unit doesn't last forever. Typically, air conditioners have a lifespan of 15-20 years with proper maintenance. However, several signs indicate you might need a replacement sooner: frequent repairs costing more than 50% of a new unit, rising energy bills despite regular maintenance, uneven cooling throughout your home, excessive noise or strange odors, and using R-22 refrigerant (being phased out). Modern AC units offer significantly better energy efficiency, quieter operation, and smart features. While the upfront cost is higher, the long-term savings in energy and repairs make replacement worthwhile.",
+          "date": "2024-01-10"
+        },
+        {
+          "id": "3",
+          "title": "Types of HVAC Systems Explained",
+          "summary": "A comprehensive guide to understanding different HVAC system types and their benefits.",
+          "content": "Choosing the right HVAC system depends on your space, budget, and specific needs. Split Systems are the most common, with an outdoor compressor and indoor air handler. Central AC uses ductwork to distribute cool air throughout the building. Ductless Mini-Splits are perfect for additions or rooms without ductwork. VRF/VRV Systems offer zone control and energy efficiency for larger buildings. Each system has its advantages: split systems are cost-effective, central AC provides uniform cooling, ductless systems offer flexibility, and VRF systems deliver precise temperature control with energy savings up to 30%.",
+          "date": "2024-01-05"
+        },
+        {
+          "id": "4",
+          "title": "Energy-Efficient Cooling Tips",
+          "summary": "Simple strategies to reduce your cooling costs while staying comfortable.",
+          "content": "Staying cool in Saudi Arabia's heat doesn't have to break the bank. Start by setting your thermostat to 24°C—each degree lower increases energy use by 3-5%. Use programmable thermostats to adjust temperatures when you're away. Keep blinds and curtains closed during peak sun hours. Ensure proper insulation and seal air leaks around doors and windows. Regular filter changes improve airflow and efficiency. Consider ceiling fans to help circulate cool air. If upgrading, look for units with high SEER ratings (14 or above). These simple steps can reduce your cooling costs by 20-40% annually.",
+          "date": "2024-01-01"
+        }
+      ]
+    },
+    "lease": {
+      "title": "HVAC Leasing Program",
+      "subtitle": "Premium cooling without the upfront investment",
+      "benefits": {
+        "title": "Why Lease With Ice Gate?",
+        "items": [
+          "Zero Down Payment",
+          "Free Installation & Maintenance",
+          "Equipment Upgrades",
+          "24/7 Priority Support",
+          "Flexible Payment Plans",
+          "No Repair Costs"
+        ]
+      },
+      "form": {
+        "title": "Apply for Leasing",
+        "fullName": "Full Name",
+        "phone": "Phone Number",
+        "email": "Email Address",
+        "address": "Property Address",
+        "propertyType": "Property Type",
+        "propertyTypes": ["Apartment", "Villa", "Commercial", "Industrial", "Other"],
+        "systemType": "System Type Request",
+        "systemTypes": ["Split AC", "Central AC", "Ducted System", "VRF System", "Not Sure"],
+        "budget": "Budget Range (SAR/month)",
+        "budgets": ["Under 500", "500 - 1,000", "1,000 - 2,000", "2,000 - 5,000", "5,000+"],
+        "notes": "Additional Notes",
+        "documents": "Upload Documents (Optional)",
+        "submit": "Submit Application",
+        "success": "Application submitted successfully! We will contact you within 24 hours."
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "Get in touch with our team",
+      "form": {
+        "name": "Your Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "subject": "Subject",
+        "message": "Your Message",
+        "submit": "Send Message",
+        "success": "Message sent successfully!"
+      },
+      "info": {
+        "phone": "Phone",
+        "phoneValue": "055 861 2626",
+        "email": "Email",
+        "emailValue": "info@icegate-hvac.com",
+        "address": "Address",
+        "addressValue": "Al Danah Ash Shamaliyah, Dhahran 34258",
+        "hours": "Business Hours",
+        "hoursValue": "Saturday - Thursday: 8 AM - 4 PM"
+      }
+    },
+    "footer": {
+      "description": "Your trusted partner for premium HVAC solutions in the Eastern Province.",
+      "quickLinks": "Quick Links",
+      "services": "Services",
+      "contactUs": "Contact Us",
+      "rights": "All rights reserved."
+    },
+    "notFound": {
+      "title": "Page Not Found",
+      "description": "Oops! The page you're looking for doesn't exist.",
+      "back": "Back to Home"
+    },
+    "common": {
+      "rating": "Rating",
+      "reviews": "reviews"
+    }
+  }
+  

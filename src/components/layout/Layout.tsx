@@ -1,0 +1,27 @@
+import { ReactNode, useEffect } from "react";
+import { useTranslation } from "react-i18next";
+import Navbar from "./Navbar";
+import Footer from "./Footer";
+
+interface LayoutProps {
+  children: ReactNode;
+}
+
+const Layout = ({ children }: LayoutProps) => {
+  const { i18n } = useTranslation();
+
+  useEffect(() => {
+    document.documentElement.dir = i18n.language === "ar" ? "rtl" : "ltr";
+    document.documentElement.lang = i18n.language;
+  }, [i18n.language]);
+
+  return (
+    <div className="min-h-screen flex flex-col">
+      <Navbar />
+      <main className="flex-1 pt-16 lg:pt-20">{children}</main>
+      <Footer />
+    </div>
+  );
+};
+
+export default Layout;
